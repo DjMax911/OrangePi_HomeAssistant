@@ -1,4 +1,8 @@
 # OrangePi_HomeAssistant
+These commands will help you to install Home Assistant supervised on a Orange Pi Zero 2 or Orange Pi Zero 3
+Note: it's recommanded to have at least 2GB of Ram.
+You need to install Debian Kernel 6.1 (bookworm_server)
+Available at http://www.orangepi.org/ 
 
 ## Install commands
 
